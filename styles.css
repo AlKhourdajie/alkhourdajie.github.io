@@ -160,7 +160,8 @@ details.year > .year__body { padding: 4px 20px 12px; border-top: 1px solid var(-
 /* ---------- quote ---------- */
 .quote { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
   padding: 26px 0; max-width: 74ch; }
-.quote p { font-style: italic; font-size: 17.5px; }
+.quote p { font-style: italic; font-size: 17.5px; margin-bottom: 6px; }
+.quote p.meta { font-style: normal; margin-top: 14px; }
 
 /* ---------- video ---------- */
 .video { position: relative; width: 100%; max-width: 620px; aspect-ratio: 16 / 9; }

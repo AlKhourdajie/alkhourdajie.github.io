@@ -73,10 +73,21 @@ SITE = {
 # inline markdown
 # --------------------------------------------------------------------------- #
 
+def is_external(url):
+    """True for links that leave the site."""
+    return url.startswith(("http://", "https://")) and SITE["url"] not in url
+
+
+def link_tag(label, url):
+    extra = ' target="_blank" rel="noopener"' if is_external(url) else ""
+    return f'<a href="{url}"{extra}>{label}</a>'
+
+
 def inline(text):
     """Links, bold, italic and code inside a line of text."""
     out = html.escape(text, quote=False)
-    out = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', out)
+    out = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
+                 lambda m: link_tag(m.group(1), m.group(2)), out)
     out = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", out)
     out = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", out)
     out = re.sub(r"`([^`]+)`", r"<code>\1</code>", out)
@@ -219,7 +230,8 @@ def render_buttons(lines, indent="      "):
         if not m:
             continue
         cls = "btn" if i == 0 else "btn btn--outline"
-        out.append(f'{indent}  <a class="{cls}" href="{m.group(2)}">{html.escape(m.group(1))}</a>')
+        extra = ' target="_blank" rel="noopener"' if is_external(m.group(2)) else ""
+        out.append(f'{indent}  <a class="{cls}" href="{m.group(2)}"{extra}>{html.escape(m.group(1))}</a>')
     out.append(f'{indent}</p>')
     return out
 
