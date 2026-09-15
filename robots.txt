@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alkhourdajie.github.io/sitemap.xml
