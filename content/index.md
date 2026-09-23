@@ -10,10 +10,12 @@ description: Alaa Al Khourdajie works on climate change mitigation: pathways und
 
 :::section 1
 :::split
-I work on climate change mitigation: how mitigation pathways hold up under disruption, what a temperature overshoot and the decline that follows leave behind in socioeconomic terms, how Earth system tipping elements bear on that, what carbon capture and storage can deliver under real geological limits, and how scenario evidence is assessed for policy. I explore machine learning methods for scenario research and for scientific assessment.
+I am an interdisciplinary scientist working on climate change mitigation. My work asks how mitigation scenarios change under disruption, what a temperature overshoot and the decline that follows leave behind in socioeconomic terms, how Earth system tipping elements bear on that, what carbon capture and storage can deliver under real geological limits, and how scenario evidence is assessed for policy. I explore machine learning methods for scenario research and for scientific assessment.
 {lede}
 
-^Advanced Research Fellow at Imperial College London. Lead Author for the IPCC Working Group III contribution to the Seventh Assessment Report. Guest Research Scholar at IIASA.
+^Advanced Research Fellow at Imperial College London.
+^Lead Author for the IPCC Working Group III contribution to the Seventh Assessment Report.
+^Guest Research Scholar at IIASA.
 
 ![Portrait of Alaa Al Khourdajie](assets/portrait.jpg)
 :::
@@ -28,12 +30,12 @@ I work on climate change mitigation: how mitigation pathways hold up under disru
 
 :::cards
 ### Disruption and resilience
-Mitigation pathways are usually drawn on smooth assumptions about growth, trade and technology. I test what happens when heatwaves, trade shocks and technology failures arrive during the transition, and which design choices keep a pathway on course.
+Mitigation scenarios are usually drawn on smooth assumptions about growth, trade and technology. I test what happens when heatwaves, trade shocks and technology failures arrive during the transition, and which design choices keep a pathway on course.
 [Disruption and resilience](research.html)
 
 ### Irreversibility under temperature overshoot and return
 Temperature may return to a level it passed. Ecosystems, coastlines, institutions and capital stock do not always follow. I work on the socioeconomic impacts of overshoot and of the decline that follows, on how Earth system tipping elements bear on them, and on separating what reverses as warming declines from the losses that lock in.
-[Overshoot and irreversibility](research.html)
+[Overshoot, tipping elements and irreversibility](research.html)
 
 ### AI for scenarios and assessment
 I explore machine learning methods that generate, classify and emulate scenarios, and work on the terms under which assessment bodies such as the IPCC can use them while keeping the transparency their mandate requires.
@@ -81,7 +83,7 @@ Academic Board (2024-present)
 **[IPCC Task Group on Data](https://www.ipcc.ch/data/)**
 Member (2025-present)
 
-**IPCC Ad hoc Group on Artificial Intelligence**
+**IPCC Informal Group on Artificial Intelligence**
 Co-Chair
 
 **[PLOS Climate](https://journals.plos.org/climate/)**

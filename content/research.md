@@ -99,11 +99,13 @@ Finus, M. & Al Khourdajie, A. (2018). [Strategic environmental policy, internati
 :::entries
 Al Khourdajie, A., Gambhir, A., Keppo, I., et al. (2025). [Navigating the unexpected: the impact of disruptive events on mitigation scenarios](https://doi.org/10.21203/rs.3.rs-7427967/v1). Research Square.
 
-de Rijke, M., van den Hurk, B., Salim, F., Al Khourdajie, A., et al. (2025). [Information retrieval for climate impact](https://doi.org/10.48550/arXiv.2504.01162). arXiv.
-
 Al Khourdajie, A., Fricko, O., Battiston, S., Monasterolo, I., van Ruijven, B., Min, J. & Riahi, K. (2026). [Unwinding climate policy can sink the climate goals by hindering finance](https://doi.org/10.2139/ssrn.7422798). SSRN.
 
 Schirren, L., Müller, L., Al Khourdajie, A., Gast, L., Egli, F. & Hawkes, A. (2026). [Beyond hard-to-abate: matching models to transition bottlenecks](https://doi.org/10.31223/X5CF8B). EarthArXiv.
+
+de Rijke, M., van den Hurk, B., Salim, F., Al Khourdajie, A., et al. (2025). [Information retrieval for climate impact](https://doi.org/10.48550/arXiv.2504.01162). arXiv.
+
+Hegerl, G., Abba Omar, S., Al Khourdajie, A., et al. (2026). [High-impact climate events and tipping dynamics: assessing scientific understanding and future challenges](https://doi.org/10.22541/essoar.15008733/v1). ESS Open Archive.
 :::
 
 :::section 1

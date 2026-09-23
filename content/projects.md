@@ -27,7 +27,6 @@ Work Package 4 lead. The project expanded integrated assessment modelling throug
 
 ### NEST
 ^Open Earth Foundation
-Co-Investigator.
 :::
 
 :::section 2
