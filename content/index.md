@@ -83,9 +83,6 @@ Academic Board (2024-present)
 **[IPCC Task Group on Data](https://www.ipcc.ch/data/)**
 Member (2025-present)
 
-**IPCC Informal Group on Artificial Intelligence**
-Co-Chair
-
 **[PLOS Climate](https://journals.plos.org/climate/)**
 Academic Editor, machine learning and AI section
 

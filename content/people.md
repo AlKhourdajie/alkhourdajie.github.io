@@ -37,7 +37,7 @@ Modelling teams across Europe, working to shared scenario protocols.
 
 ### Assessment author teams
 ^IPCC, WCRP, UNEP
-IPCC Working Group III, the Task Group on Data and the Informal Group on Artificial Intelligence, the WCRP assessment of high-impact events and tipping points, and the UNEP Global Environment Outlook.
+IPCC Working Group III, the Task Group on Data, the WCRP assessment of high-impact events and tipping points, and the UNEP Global Environment Outlook.
 [Projects](projects.html)
 
 ### Networks
