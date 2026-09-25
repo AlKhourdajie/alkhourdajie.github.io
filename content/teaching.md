@@ -56,5 +56,5 @@ He who knows not, and knows that he knows not, is Hungry; Feed him.
 
 He who knows not, and knows not that he knows not, is a Fool; Shun him.
 
-^Often attributed to al-Khalīl ibn Ahmad al-Farāhīdī (d. 786 CE).
+^Often attributed to [al-Khalīl ibn Ahmad al-Farāhīdī](https://en.wikipedia.org/wiki/Al-Khalil_ibn_Ahmad_al-Farahidi) (d. 786 CE) — an Arab philologist, lexicographer and leading grammarian of Basra in Iraq.
 :::
