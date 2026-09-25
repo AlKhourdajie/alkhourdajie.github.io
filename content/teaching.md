@@ -48,13 +48,13 @@ Tutorial teaching in mathematics, probability and statistics, econometrics, and 
 
 :::section 2
 :::quote
-He who knows, and knows that he knows, is wise; Follow him.
+He who knows, and knows that he knows, is Wise; Follow him.
 
-He who knows, and knows not that he knows, is asleep; Wake him.
+He who knows, and knows not that he knows, is Asleep; Wake him.
 
-He who knows not, and knows that he knows not, is hungry; Feed him.
+He who knows not, and knows that he knows not, is Hungry; Feed him.
 
-He who knows not, and knows not that he knows not, is a fool; Shun him.
+He who knows not, and knows not that he knows not, is a Fool; Shun him.
 
-^Often attributed to al-Khalīl ibn Ahmad al-Farāhīdī. (d. 786 CE)
+^Often attributed to al-Khalīl ibn Ahmad al-Farāhīdī (d. 786 CE).
 :::
