@@ -26,11 +26,14 @@ I am an interdisciplinary scientist working on climate change mitigation. My wor
 :::
 
 :::section 2
-## Four questions I work on
+## One question, four strands
+
+How should mitigation pathways be constructed, interpreted and assessed when real-world disruption, irreversible losses, model limitations and evidence-production processes challenge conventional scenario analysis?
+{lede}
 
 :::cards
 ### Disruption and resilience
-Mitigation scenarios are usually drawn on smooth assumptions about growth, trade and technology. I test what happens when heatwaves, trade shocks and technology failures arrive during the transition, and which design choices keep a pathway on course.
+Mitigation scenarios are usually drawn on smooth assumptions about growth, trade and technology. I test what happens when heatwaves, trade shocks and technology failures arrive during the transition, and which design choices keep a pathway on course. I developed the [Disruptive Events-Resilient Pathways (DERPs) framework](https://doi.org/10.21203/rs.3.rs-7427967/v1), which maps mitigation trajectories along dimensions of ambition and system resilience.
 [Disruption and resilience](research.html)
 
 ### Irreversibility under temperature overshoot and return
@@ -42,7 +45,7 @@ I explore machine learning methods that generate, classify and emulate scenarios
 [AI for scenarios and assessment](research.html)
 
 ### Scenario evidence for policy
-I work on what "abated" fossil fuel use should mean, how carbon capture is represented in pathways under constrained geological storage and injection rates, and how the expectations of financial actors enter the models.
+I work on what "abated" fossil fuel use should mean, how carbon capture is represented in pathways under constrained geological storage and injection rates, and how the expectations of financial actors enter the models. I also decompose scenario ensembles into what comes from climate ambition, the background scenario and the model itself, and work on how scenario databases are built and used in assessment.
 [Scenario evidence for policy](research.html)
 :::
 
